@@ -1,8 +1,0 @@
-# DoubleStar
-Say, Welcome
-# https://tea.xyz/what-is-this-file
----
-version: 1.0.0
-codeOwners:
-  - '0x2Fb21573032a7b36Cda3F824AA393E0Fa427840D'
-quorum: 1
